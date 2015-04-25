@@ -22,18 +22,7 @@
       <point x="70" y="479" type="line"/>
     </contour>
     <contour>
-      <point x="193" y="479" type="line"/>
-      <point x="193" y="479"/>
-      <point x="70" y="479"/>
-      <point x="70" y="479" type="curve"/>
-      <point x="20" y="273" type="line"/>
-    </contour>
-    <contour>
-      <point x="338" y="0" type="line"/>
-      <point x="338" y="0"/>
-      <point x="461" y="0"/>
-      <point x="461" y="0" type="curve"/>
-      <point x="501" y="216" type="line"/>
+      <point x="70" y="479" type="move"/>
     </contour>
   </outline>
 </glyph>
