@@ -20,12 +20,21 @@ lookup pos_pair_kern_0 {
     pos \T \A -76;
 } pos_pair_kern_0;
 
+lookup pos_pair_kern_2 {
+  lookupflag 0;
+    pos \A \G -50;
+    pos \F \A -106;
+    pos \R \Y -61;
+    pos \T \A -76;
+} pos_pair_kern_2;
+
 feature kern {
 
  script DFLT;
      language dflt ;
       lookup kernHorizontalKerninglookup0;
       lookup pos_pair_kern_0;
+      lookup pos_pair_kern_2;
 } kern;
 
 @GDEF_Simple = [\A \AE \Aacute \Acircumflex \Adieresis \Agrave \Aring \Atilde \B \C 
