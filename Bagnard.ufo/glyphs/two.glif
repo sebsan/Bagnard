@@ -30,17 +30,5 @@
       <point x="458" y="100" type="line"/>
       <point x="70" y="100" type="line"/>
     </contour>
-    <contour>
-      <point x="442" y="39" type="line"/>
-      <point x="488" y="222" type="line"/>
-      <point x="488" y="222"/>
-      <point x="352" y="79"/>
-      <point x="352" y="79" type="curve"/>
-    </contour>
-    <contour>
-      <point x="386" y="5" type="line"/>
-      <point x="423" y="-36" type="line"/>
-      <point x="434" y="9" type="line"/>
-    </contour>
   </outline>
 </glyph>
