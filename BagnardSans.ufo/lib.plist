@@ -6,6 +6,20 @@
 	<string>89397F8B-8D61-453A-A508-64C283F9DD74</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/Doug/GitHub/Bagnard/Bagnard.otf</string>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>

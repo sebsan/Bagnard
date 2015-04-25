@@ -15,15 +15,6 @@
       <point x="10" y="623" type="line"/>
       <point x="423" y="623" type="line"/>
     </contour>
-    <contour>
-      <point x="16" y="694" type="line"/>
-      <point x="11" y="694"/>
-      <point x="0" y="510"/>
-      <point x="0" y="510" type="curve"/>
-      <point x="0" y="510"/>
-      <point x="107" y="687"/>
-      <point x="107" y="687" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>

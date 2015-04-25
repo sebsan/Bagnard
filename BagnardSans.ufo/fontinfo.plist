@@ -12,14 +12,20 @@
 	<integer>-225</integer>
 	<key>familyName</key>
 	<string>Bagnard</string>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
+	<key>italicAngle</key>
+	<real>0.0</real>
 	<key>macintoshFONDName</key>
 	<string>Bagnard</string>
+	<key>note</key>
+	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/03/08 17:40:54</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
+	<string>2015/04/25 20:16:11</string>
+	<key>openTypeHheaAscender</key>
+	<integer>969</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-271</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Bagnard</string>
 	<key>openTypeNameDesigner</key>
@@ -30,9 +36,8 @@
 	<string>Bagnard</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-	</array>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.0</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -75,15 +80,22 @@
 	<array>
 		<integer>2</integer>
 	</array>
-	<key>openTypeOS2UnicodeRanges</key>
-	<array>
-	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>800</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-200</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>pyrs</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>969</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>271</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
@@ -97,8 +109,6 @@
 		<integer>479</integer>
 		<integer>489</integer>
 	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
 	<key>postscriptFamilyBlues</key>
 	<array>
 	</array>
@@ -111,23 +121,21 @@
 	<false/>
 	<key>postscriptFullName</key>
 	<string>Bagnard</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -140,7 +148,5 @@
 	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>479</integer>
-	<key>year</key>
-	<integer>0</integer>
 </dict>
 </plist>
