@@ -34,8 +34,14 @@
       <point x="397" y="-225" type="line"/>
       <point x="517" y="-225" type="line"/>
       <point x="517" y="390" type="line"/>
-      <point x="518" y="450" type="line"/>
-      <point x="397" y="526" type="line"/>
+      <point x="517" y="526" type="line"/>
+      <point x="397" y="454" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>
