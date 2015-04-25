@@ -37,19 +37,5 @@
       <point x="41" y="63"/>
       <point x="152" y="-13"/>
     </contour>
-    <contour>
-      <point x="473" y="146" type="line"/>
-      <point x="473" y="146"/>
-      <point x="473" y="-5"/>
-      <point x="473" y="-5" type="curve"/>
-      <point x="599" y="58" type="line"/>
-    </contour>
-    <contour>
-      <point x="491" y="547" type="line"/>
-      <point x="491" y="547"/>
-      <point x="491" y="726"/>
-      <point x="491" y="726" type="curve"/>
-      <point x="335" y="622" type="line"/>
-    </contour>
   </outline>
 </glyph>
