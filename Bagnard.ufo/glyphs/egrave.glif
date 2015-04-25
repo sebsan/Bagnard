@@ -6,4 +6,11 @@
     <component base="e"/>
     <component base="grave" xOffset="-62"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
