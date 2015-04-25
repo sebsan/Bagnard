@@ -28,26 +28,5 @@
       <point x="415" y="-23" type="line"/>
       <point x="505" y="22" type="line"/>
     </contour>
-    <contour>
-      <point x="444" y="326" type="line"/>
-      <point x="444" y="326"/>
-      <point x="444" y="472"/>
-      <point x="444" y="472" type="curve"/>
-      <point x="313" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="140" y="326" type="line"/>
-      <point x="140" y="326"/>
-      <point x="140" y="472"/>
-      <point x="140" y="472" type="curve"/>
-      <point x="9" y="392" type="line"/>
-    </contour>
-    <contour>
-      <point x="451" y="146" type="line"/>
-      <point x="451" y="146"/>
-      <point x="451" y="-5"/>
-      <point x="451" y="-5" type="curve"/>
-      <point x="577" y="58" type="line"/>
-    </contour>
   </outline>
 </glyph>
