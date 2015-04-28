@@ -6,11 +6,4 @@
     <component base="c"/>
     <component base="cedilla" xOffset="103"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
