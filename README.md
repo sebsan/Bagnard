@@ -1,17 +1,17 @@
-##Bagnard
+## Bagnard
 
 Bagnard was inspired by the graffitis of an anonymous prisoner of the napoleonic wars.
 
-##Contribute
-#####Recommendations:
+## Contribute
+##### Recommendations:
 1. Improve spacing
 2. Improve kerning
 3. Add missing glyphs
 
-##Font specimen
+## Font specimen
 www.love-letters.be
 
-##License
+## License
 
 Bagnard is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
 
