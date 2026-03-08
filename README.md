@@ -8,8 +8,8 @@ Bagnard was inspired by the graffitis of an anonymous prisoner of the napoleonic
 2. Improve kerning
 3. Add missing glyphs
 
-##Font specimen
-www.love-letters.be
+##Designer
+loveletters.be
 
 ##License
 
